@@ -1,0 +1,11 @@
+{
+  "name": "agromarket-lab2",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "server": "json-server --watch db.json --port 3001"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.4"
+  }
+}

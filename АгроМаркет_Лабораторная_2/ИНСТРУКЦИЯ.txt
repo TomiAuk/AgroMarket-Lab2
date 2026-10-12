@@ -1,0 +1,2 @@
+Лабораторная работа № 2 — DOM, Fetch API и Git.
+Запуск: установите Node.js, в этой папке выполните npm install, затем npm run server. Откройте index.html через локальный сервер или используйте указанный в README способ. Если json-server не настроен в package.json, выполните: npx json-server --watch db.json --port 3001.
